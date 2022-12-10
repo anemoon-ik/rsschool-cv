@@ -15,15 +15,41 @@
 
 #### Education:
 
-Almaty Management University
+Almaty Management University (2019-2023)
 
 - Bachelor's degree on "Software Engineering"
   - GPA 3,55/4.0
 
+Ziyash Bektenov Girls High School (2014-2019)
+
+- Secondary Education
+  - GPA 4,9/5
+  - Russian Language Olympiad (2019)
+  - Medalist of debate "World Scholar's Cup"
+
 #### Code example:
 
 ```
-print("Hello to coding world!");
+{route.params.exercises.map((item, index) => (
+          <Pressable
+            style={{ margin: 10, flexDirection: "row", alignItems: "center" }}
+            key={index}
+          >
+            <Image
+              style={{ width: 90, height: 90 }}
+              source={{ uri: item.image }}
+            />
+            <View style={{ marginLeft: 10 }}>
+              <Text style={{ fontSize: 17, fontWeight: "bold" }}>
+                {item.name}
+              </Text>
+
+              <Text style={{ marginTop: 4, fontSize: 17, color: "black" }}>
+                x{item.sets}
+              </Text>
+            </View>
+          </Pressable>
+        ))}
 
 ```
 
@@ -35,6 +61,23 @@ print("Hello to coding world!");
   - Helped with the organization of VIP catering from the technical part
 
 - Hackathon participation (2019-2021):
+
   - Google Hach Code Competition (2019)
   - Hackathon in KBTU (2019)
   - Ioka Fintech hackathon (2021)
+
+#### Skills
+
+- Programming skills
+
+  - Python
+  - SQL
+  - HTML & CSS Basics
+  - Data Analysis
+
+- Languages
+  - English (C1)
+  - Turkish (A2)
+  - Kazakh (A1)
+  - Russian (native)
+  - Kyrgyz (native)

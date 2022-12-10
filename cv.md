@@ -1,4 +1,4 @@
-![](me.jpg)
+![](photo.jpg)
 
 ### Adinai Turatbekova
 

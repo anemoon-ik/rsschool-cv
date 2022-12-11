@@ -1,1 +1,1 @@
-https://anemoon-ik.github.io/rsschool-cv/cv
+https://anemoon-ik.github.io/rsschool-cv/
